@@ -51,11 +51,11 @@
       
         <li><a href="/">主页</a></li>
       
-        <li><a href="/archives">归档</a></li>
+        <li><a href="/archives/">归档</a></li>
       
-        <li><a href="/categories">分类</a></li>
+        <li><a href="/categories/">分类</a></li>
       
-        <li><a href="/tags">标签</a></li>
+        <li><a href="/tags/%20%7C%7C%20tags">标签</a></li>
       
     </ul>
   </nav>
@@ -72,7 +72,7 @@
 
   <div class="article-top-meta">
     <span class="posted-on">
-      <a href="/uncategorized/ckk5ngwz70003e86p6yxh9aom" rel="bookmark">
+      <a href="/uncategorized/ckk5nzcnu0003m96pcrhqdic0" rel="bookmark">
         <time class="entry-date published" datetime="2020-12-04T05:32:26.680Z">
           2020-12-04
         </time>
