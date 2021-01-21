@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Python | 南城忆 | 记录 思考 总结 分享</title>
+  <title>Test | 南城忆 | 记录 思考 总结 分享</title>
 
   
   <meta name="author" content="joker">
@@ -21,7 +21,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-  <meta property="og:title" content="Python"/>
+  <meta property="og:title" content="Test"/>
 
   <meta property="og:site_name" content="南城忆"/>
 
@@ -63,62 +63,71 @@
 
     <main class="site-main posts-loop">
     <article>
+  <h2 class="article-title ">Test</h2>
 
-  
+  <div class="tags-cloud">
     
-    <h3 class="article-title"><span>Python</span></h3>
+      <span class="post-tags">
+        <i class="icon-tags"></i>
+          <a href="/tags/Other/" title="Other" rel="1">Other</a>
+      </span>
     
-  
-
-  <div class="article-top-meta">
-    <span class="posted-on">
-      <a href="/uncategorized/ckk5nzcnp0001m96pg66d4dd8" rel="bookmark">
-        <time class="entry-date published" datetime="2021-01-20T16:35:15.000Z">
-          2021-01-21
-        </time>
-      </a>
-    </span>
+      <span class="post-tags">
+        <i class="icon-tags"></i>
+          <a href="/tags/Python/" title="Python" rel="1">Python</a>
+      </span>
+    
   </div>
 
+  <div class="archive">
+    
+    <div class="archive-tags">
+      <span class="post-tags">
+        <i class="icon-tags"></i>
+          <a href="/tags/Other/" title="Other" rel="1">Other</a>
+      </span>
+      
+        <div class="tags archive">
+          <div class="archive-post">
+            <time datetime="2021-01-20T16:54:02.000Z">
+              <a href="/uncategorized/ckk656q0q00012g6phxts8fv2">2021-01-21</a>
+            </time>
+            
+              <h3 class="archive-title"><a href="/uncategorized/ckk656q0q00012g6phxts8fv2"><span>Test</span></a></h3>
+            
+          </div>
+        </div>
+      
+    </div>
+    
+    <div class="archive-tags">
+      <span class="post-tags">
+        <i class="icon-tags"></i>
+          <a href="/tags/Python/" title="Python" rel="1">Python</a>
+      </span>
+      
+        <div class="post archive">
+          <div class="archive-post">
+            <time datetime="2021-01-20T16:35:15.000Z">
+              <a href="/Python/ckk656q0v00032g6p352q3zu8">2021-01-21</a>
+            </time>
+            
+              <h3 class="archive-title"><a href="/Python/ckk656q0v00032g6p352q3zu8"><span>Python</span></a></h3>
+            
+          </div>
+        </div>
+      
+    </div>
+    
 
+    <nav class="pagination">
   
-
-  <div class="article-content">
-    <div class="entry">
-      
-        <h1 id="记录gitHub-Hexo-个人博客搭建"><a href="#记录gitHub-Hexo-个人博客搭建" class="headerlink" title="记录gitHub + Hexo 个人博客搭建"></a>记录gitHub + Hexo 个人博客搭建</h1><p><a target="_blank" rel="noopener" href="https://github.com/CodeDaraW/Hacker/blob/master/README_zh-CN.md">https://github.com/CodeDaraW/Hacker/blob/master/README_zh-CN.md</a></p>
-
-      
-    </div>
-
-  </div>
-
-  <div class="article-footer">
-    <div class="article-meta pull-left">
-
-    
-
-    
-    
-
-    <span class="post-tags">
-      <i class="icon-tags"></i>
-        <a href="/tags/Python/">Python</a>
-    </span>
-    
-
-    </div>
-
-    
+  
+  <a href="/" class="pagination-next">下一页</a>
+  
+</nav>
   </div>
 </article>
-
-  
-
-
-
-
-
 
     </main>
 
