@@ -90,10 +90,37 @@
 <p><img src="/Ht/Ht-01.png" alt="01"></p>
 <img src="/FrontEnd/Ht/Ht-01.png" class>
 
+<ul>
+<li><p>引入依赖库</p>
+<img src="/FrontEnd/Ht/image-20210126153721153.png" class>
 
+<p><img src="/Ht/image-20210126153721153.png" alt="image-20210126153721153"></p>
+</li>
+</ul>
+<p><img src="/Ht/image-20210126153926417.png" alt="image-20210126153926417"></p>
+<img src="/FrontEnd/Ht/image-20210126153926417.png" class>
 
+<blockquote>
+<p>ht.js是核心库，这个必须有。ht-api.js是ht.js的api文档，开发时可以多看看。index.html全局引入，后面在任意.vue文件下都可以使用ht的接口。</p>
+<p>然后新建一个vue文件。进行相关的编码工作即可。具体可参考这篇文章。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https:&#x2F;&#x2F;www.cnblogs.com&#x2F;htdaydayup&#x2F;p&#x2F;11971226.html</span><br></pre></td></tr></table></figure>
+</blockquote>
+<p>如果我们纯手工编码，对于简单的页面还行。上面那么酷炫的功能，如果自己通过编码实现那也太优秀啦！我们看下通过编辑器编辑的页面如何配合vue去加载(核心：vue + iframe而已)。</p>
+<img src="/Ht/image-20210126154956504.png" alt="image-20210126154956504" style="zoom:50%;">
 
+<img src="/FrontEnd/Ht/image-20210126154956504.png" class>
 
+<p>这个是通过编辑器编辑好的html页面，其中框中的部分是页面的核心代码。注意这个json中对应的资源路径问题。</p>
+<p>在yw2021-home.json中我们随便看一个img标签下的资源配置。</p>
+<img src="/FrontEnd/Ht/image-20210126155256938.png" class>
+
+<p><img src="/Ht/image-20210126155256938.png" alt="image-20210126155256938"></p>
+<p>如果访问不到该资源，页面肯定是看不到对应的图标或者组件信息的。</p>
+<p>接下来就是.vue组件引入iframe加载这个html啦。</p>
+<img src="/FrontEnd/Ht/image-20210126155527543.png" class>
+
+<p><img src="/Ht/image-20210126155527543.png" alt="image-20210126155527543"></p>
+<p>很简单，直接引入本地页面即可。当然这个加载的只是静态页面。页面的交互，数据的加载，组件间的相互调用还是很复杂的。后面再补充。</p>
 
       
     </div>
